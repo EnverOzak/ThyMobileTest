@@ -1,0 +1,25 @@
+[
+  {
+    "key": "AllowButton",
+    "androidValue": "com.android.packageinstaller:id/permission_allow_button",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "OkButton",
+    "androidValue": "android:id/button1",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "AcceptCookiesButton",
+    "androidValue": "com.turkishairlines.mobile:id/frPrivacy_btnAccept",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+]

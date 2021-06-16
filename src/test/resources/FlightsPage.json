@@ -1,0 +1,33 @@
+[
+  {
+    "key": "FlightList",
+    "androidValue": "com.turkishairlines.mobile:id/frFlightSearch_rvFlight",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "FirstFlight",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "EcoFly",
+    "androidValue": "//*[@resource-id='com.turkishairlines.mobile:id/brandItem']",
+    "androidType": "xpath",
+    "iosValue": "x",
+    "iosType": "x"
+  },
+
+  {
+    "key": "ContinueButton",
+    "androidValue": "com.turkishairlines.mobile:id/frFlightSearch_btnContinue",
+    "androidType": "id",
+    "iosValue": "x",
+    "iosType": "x"
+  }
+]

@@ -1,0 +1,50 @@
+Created by Enver Özak on 15.06.2021
+
+# OpenApplication
+* Wait "2" seconds
+* click on element "AllowButton" by id in "OpenApplication.json"
+* Wait "2" seconds
+* click on element "OkButton" by id in "OpenApplication.json" if displayed
+* Wait "2" seconds
+* click on element "AcceptCookiesButton" by id in "OpenApplication.json"
+* Wait "2" seconds
+
+# HomePage
+* click on element "BookAFlightButton" by id in "HomePage.json"
+* Wait "2" seconds
+
+# BookFlight
+* click on element "OneWayButton" by id in "BuyTicketPage.json"
+* Wait "2" seconds
+* click on element "FromButton" by id in "BuyTicketPage.json"
+* Wait "2" seconds
+* Type "SAW" inside element "SearchBox" by id in "BuyTicketPage.json"
+* Wait "2" seconds
+* click on element "SAW" by xpath in "BuyTicketPage.json"
+* Wait "2" seconds
+* click on element "ToButton" by id in "BuyTicketPage.json"
+* Wait "2" seconds
+* Type "ESB" inside element "SearchBox" by id in "BuyTicketPage.json"
+* Wait "2" seconds
+* click on element "ESB" by xpath in "BuyTicketPage.json"
+* Wait "2" seconds
+* click on element "DepartureDateButton" by id in "BuyTicketPage.json"
+* Wait "2" seconds
+* Select Date "DateToday" by id in page "BuyTicketPage.json"
+* Wait "2" seconds
+* click on element "DoneButton" by id in "BuyTicketPage.json"
+* Wait "2" seconds
+* click on element "AdultNumberIncrease" by xpath in "BuyTicketPage.json"
+* Wait "2" seconds
+* click on element "SearchFlight" by id in "BuyTicketPage.json"
+* Wait "2" seconds
+
+# FlightsList
+* Check if "FlightList" is visible by id in "FlightsPage.json"
+* Wait "1" seconds
+* click on element "FirstFlight" by xpath in "FlightsPage.json"
+* Wait "2" seconds
+* click on element "EcoFly" by xpath in "FlightsPage.json"
+* Wait "2" seconds
+* click on element "ContinueButton" by id in "FlightsPage.json"
+* Wait "2" seconds
